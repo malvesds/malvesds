@@ -1,11 +1,9 @@
 <h1 align="left">Salve! 👋 Podem me chamar de Matheus!</h1>
-<h3 align="left">Sou um estudante de Comércio Exterior descobrindo um novo caminho na Ciência de Dados.</h3>
+<h3 align="left">Sou um estudante de Comércio Exterior descobrindo um novo caminho na Programação.</h3>
 
-- 🔭 Desenvolvo atualmente projetos em Ciêcia e Análise de Dados além de projetos em Desenvolvimento Fullstack. 
+- 🔭 Desenvolvo atualmente projetos em Desenvolvimento Fullstack além de alguns extras em Ciêcia e Análise de Dados. 
 
-- 🌱 Estou atualmente aprendendo sobre **Python, SQL e NodeJS.**
-
-- 💬 Você pode me perguntar sobre **Python, R e Javascript.**
+- 💬 Você pode me perguntar sobre **Python e Javascript.**
 
 - 📫 Podem me contatar pelo email **matheusalves7@outlook.com.br**
 
